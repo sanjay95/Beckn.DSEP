@@ -1,0 +1,10 @@
+/Users/sanjaykumar/Projects/Beckn/Beckn/bin/Debug/netstandard2.1/Beckn.deps.json
+/Users/sanjaykumar/Projects/Beckn/Beckn/bin/Debug/netstandard2.1/Beckn.dll
+/Users/sanjaykumar/Projects/Beckn/Beckn/bin/Debug/netstandard2.1/Beckn.pdb
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.csproj.AssemblyReference.cache
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.AssemblyInfoInputs.cache
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.AssemblyInfo.cs
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.csproj.CoreCompileInputs.cache
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.dll
+/Users/sanjaykumar/Projects/Beckn/Beckn/obj/Debug/netstandard2.1/Beckn.pdb
